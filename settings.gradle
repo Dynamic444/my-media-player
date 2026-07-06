@@ -1,2 +1,2 @@
-rootProject.name = "MediaPlayerApp"
-include(":app")
+rootProject.name = "my-media-player"
+include ':app'
